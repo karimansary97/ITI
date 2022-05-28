@@ -1,0 +1,9 @@
+.footer{
+    height: 200px;
+    background-color: black;
+    display: flex;
+    color: white;
+    font-size: 44px;
+    justify-content: center;
+    margin-top: 16px;
+}
